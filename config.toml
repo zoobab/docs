@@ -1,0 +1,7 @@
+baseURL = "http://docs.jeelabs.org/"
+languageCode = "en-gb"
+title = "JeeLabs Docs"
+theme = "hugo-theme-learn"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
