@@ -3,12 +3,12 @@ title: "Hardware"
 weight: 1
 ---
 
-## Pinout
+## Pinouts
 
-There are three headers on the JeeNode zero: a 17-pin main header (left), a
+There are three headers on the JeeNode Zero: a 17-pin main header (left), a
 6-pin FTDI header (bottom), and a 5-pin AUX header (bottom right):
 
-![](../jnz-rev4-pinout.png)
+![](../jnz-rev4-pinout.png?width=600px)
 
 {{% notice note %}}
 The top of the JNZ is the **unpopulated** side. Most components are on the
@@ -35,8 +35,8 @@ The top of the JeeNode Zero is _unpopulated_ by default:
 
 ![](../DSC_5703.jpg?width=300px)
 
-The bottom has the wireless radio module, the micrcontroller, the power
-supply regulator, and a few other small SMD components:
+The bottom has the wireless radio module, the micrcontroller, and the power
+supply regulator:
 
 ![](../DSC_5710.jpg?width=300px)
 
