@@ -27,7 +27,7 @@ clock confiuration, a lower voltage can also be applied, since the µC and RF
 module can both work down to 1.8V.
 
 If a 3V coin cell is fitted, power _should not_ be applied to any of the supply
-pins - one solution is to _always_ remove the coin cell when connected to FTDI.
+pins - one solution is to _always_ remove the coin cell when connecting to FTDI.
 
 ## Top and bottom view
 
