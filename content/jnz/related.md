@@ -1,5 +1,6 @@
 ---
 title: "Related pages"
+weight: 9
 ---
 
 ### JeeNode Zero
