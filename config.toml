@@ -8,3 +8,4 @@ home = ["HTML", "RSS", "JSON"]
 
 [params]
 themeVariant = "blue"
+editURL = "https://github.com/jeelabs/docs/edit/master/content/"
