@@ -23,3 +23,5 @@ using energy harvested from a Current Transformer
 * Depending on PCB rev, Q2 and others may need special orientation:
 
 ![](DSC_5046.jpg?width=300px)
+
+![](flipped.jpg?width=300px)
