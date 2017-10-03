@@ -1,5 +1,5 @@
 ---
-title: "Related pages"
+title: "Other MPS pages"
 ---
 
 ### Micro Power Snitch

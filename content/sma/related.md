@@ -1,5 +1,5 @@
 ---
-title: "Related pages"
+title: "Other SMA pages"
 ---
 
 ### SMA Solar

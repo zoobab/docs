@@ -1,5 +1,5 @@
 ---
-title: "Related pages"
+title: "Other JNZ pages"
 weight: 9
 ---
 

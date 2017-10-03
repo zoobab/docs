@@ -20,3 +20,10 @@ using energy harvested from a Current Transformer
 * Design files are in the
   [mps](https://github.com/jeelabs/embello/tree/master/projects/mps) area of the
   [Embello](https://github.com/jeelabs/embello) GitHub repository
+
+{{% notice info %}}
+Several components need to be inserted in unusual ways due to
+a number of pinout mismatches on the PCB design:
+{{% /notice%}}
+
+![](DSC_5046.jpg?width=300px)

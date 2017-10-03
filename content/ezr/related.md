@@ -1,5 +1,5 @@
 ---
-title: "Related pages"
+title: "Other EZR pages"
 ---
 
 ### EZ-Retro v1
