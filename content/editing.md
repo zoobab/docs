@@ -7,7 +7,7 @@ The pages on this site are generated from the
 
 #### If you have commit access
 
-The "Edit this page" link (top left) opens GitHub's online text editor.  Changes
+The "Edit this page" link (top right) opens GitHub's online text editor.  Changes
 made this way will automatically update the site via a webhook - it's great
 for fixing typos, small changes, etc.
 
