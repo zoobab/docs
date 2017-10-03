@@ -22,7 +22,7 @@ title: "Related pages"
   Apr 2017
 * All
   [ezr](https://github.com/jeelabs/embello/tree/master/explore/1608-forth/ezr)
-  design files are on GitHub, part of [Embello](http://embello.jeelabs.org)
+  design files are on GitHub, part of [Embello](https://embello.jeelabs.org)
 
 ### FPGA-based "MultiComp"
 * [Building a MultiComp-based Z80](https://jeelabs.org/article/1550b/) - weblog,

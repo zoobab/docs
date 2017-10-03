@@ -1,4 +1,4 @@
-baseURL = "http://docs.jeelabs.org/"
+baseURL = "https://docs.jeelabs.org/"
 languageCode = "en-gb"
 title = "JeeLabs Docs"
 theme = "hugo-theme-learn"
