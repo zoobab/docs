@@ -30,8 +30,8 @@ file.  The basic steps to do this are:
 1. install [Hugo](https://gohugo.io) (it runs on just about [any
    platform](https://github.com/gohugoio/hugo/releases))
 1. clone the [jeelabs/docs](https://github.com/jeelabs/docs) repository
-1. install the [Learn theme](https://github.com/matcornic/hugo-theme-learn) in
-   it
+1. install the [Learn theme](https://github.com/matcornic/hugo-theme-learn)
+   inside it
 1. launch Hugo in server mode: `hugo server`
 1. open <http://localhost:1313> in your browser
 1. _extend and modify the documentation ..._
