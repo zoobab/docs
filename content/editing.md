@@ -2,30 +2,40 @@
 title: "Editing"
 ---
 
-The contents of this site is generated from the
+The pages on this site are generated from the
 [jeelabs/docs](https://github.com/jeelabs/docs) repository on GitHub.
 
 #### If you have commit access
 
-The "Edit this page" link in the top left opens GitHub's online editor.
-Changes made this way will automatically update the site via a webhook, which is
-very convenient for fixing typos, small changes, etc.
+The "Edit this page" link (top left) opens GitHub's online text editor.  Changes
+made this way will automatically update the site via a webhook - it's great
+for fixing typos, small changes, etc.
 
 #### If you don't have commit access
 
-The "Edit this page" link in the top left will lead to a page where you can
-"fork" the `docs` repository and edit your copy. To get your changes incorporated
-into this site, please create a "pull request".
+The "Edit this page" link leads to a page where you can "fork" the `docs`
+repository and edit your copy. Please create a "pull request" to get your
+changes incorporated into this site.
 
 If you expect to make more changes, you can also add a [new
-issue](https://github.com/jeelabs/docs/issues) on GitHub with your plans and
-be added as contributor by one of the admins for direct edit/commit
-access.
+issue](https://github.com/jeelabs/docs/issues) on GitHub with your plans and be
+added as contributor by one of the admins for direct edit/commit access.
 
 #### More substantial changes
 
 For larger changes, it's much more convenient to use Hugo's "live preview"
-server mode, which instally shows the effect of every
-change as soon as you changes are saved to file.
+server mode, which shows the effect of each change as soon as it is saved to
+file.  The basic steps to do this are:
 
-...
+1. install [Hugo](https://gohugo.io) (it runs on just about [any
+   platform](https://github.com/gohugoio/hugo/releases))
+1. clone this [jeelabs/docs](https://github.com/jeelabs/docs) repository
+1. install the [Learn theme](https://github.com/matcornic/hugo-theme-learn) in
+   it
+1. launch Hugo in server mode: `hugo server`
+1. open <http://localhost:1313> in your browser
+1. _extend and modify the documentation ..._
+1. every time you save, the browser will update
+
+A _very_ convenient setup is to keep your editor and your browser open,
+side-by-side.
