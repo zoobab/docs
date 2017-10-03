@@ -23,4 +23,4 @@ sensor nodes
   of the [Embello](https://github.com/jeelabs/embello) GitHub repository
 * The core Mecrisp Forth software files can be found in the
   [ezr](https://github.com/jeelabs/embello/tree/master/explore/1608-forth/jz4)
-  area.
+  area
