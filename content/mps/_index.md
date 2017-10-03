@@ -20,3 +20,4 @@ using energy harvested from a Current Transformer
 * Design files are in the
   [mps](https://github.com/jeelabs/embello/tree/master/projects/mps) area of the
   [Embello](https://github.com/jeelabs/embello) GitHub repository
+* Discussion underway about Q2 orientation with different manufacturers.
