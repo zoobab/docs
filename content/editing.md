@@ -18,18 +18,18 @@ repository and edit your copy. Please create a "pull request" to get your
 changes incorporated into this site.
 
 If you expect to make more changes, you can also add a [new
-issue](https://github.com/jeelabs/docs/issues) on GitHub with your plans and be
-added as contributor by one of the admins for direct edit/commit access.
+issue](https://github.com/jeelabs/docs/issues) on GitHub with your plans and
+a request for direct edit/commit access as contributor.
 
 #### More substantial changes
 
-For larger changes, it's much more convenient to use Hugo's "live preview"
+For larger changes, it's much more convenient to use Hugo's _live preview_
 server mode, which shows the effect of each change as soon as it is saved to
 file.  The basic steps to do this are:
 
 1. install [Hugo](https://gohugo.io) (it runs on just about [any
    platform](https://github.com/gohugoio/hugo/releases))
-1. clone this [jeelabs/docs](https://github.com/jeelabs/docs) repository
+1. clone the [jeelabs/docs](https://github.com/jeelabs/docs) repository
 1. install the [Learn theme](https://github.com/matcornic/hugo-theme-learn) in
    it
 1. launch Hugo in server mode: `hugo server`
