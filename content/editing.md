@@ -37,5 +37,5 @@ file.  The basic steps to do this are:
 1. _extend and modify the documentation ..._
 1. every time you save, the browser will update
 
-Tip: a convenient setup is to keep your editor and your browser open,
+Tip: a convenient setup is to keep your editor and browser open,
 side-by-side.
