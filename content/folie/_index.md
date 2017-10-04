@@ -1,10 +1,10 @@
 ---
-title: "Folie"
+title: "Forth Live Explorer"
 weight: 70
 ---
 
-The **Forth Live Explorer** is a command-line utility to talk to a µC
-via a (local or remote) serial port.
+Folie is a command-line utility to talk to a µC
+via a (local or remote) serial port
 <!--more-->
 
 _Folie is work-in-progress._ For a first introduction see these articles:
