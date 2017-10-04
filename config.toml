@@ -9,3 +9,27 @@ home = ["HTML", "RSS", "JSON"]
 [params]
 themeVariant = "blue"
 editURL = "https://github.com/jeelabs/docs/edit/master/content/"
+
+[[menu.shortcuts]]
+name = "<i class='fa fa-bullseye'></i> JeeLabs weblog"
+identifier = "wl"
+url = "https://jeelabs.org/"
+weight = 1
+
+[[menu.shortcuts]]
+name = "<i class='fa fa-github'></i> Github repositories"
+identifier = "eg"
+url = "/github"
+weight = 2
+
+[[menu.shortcuts]]
+name = "<i class='fa fa-commenting'></i> Redmine forums"
+identifier = "rf"
+url = "https://jeelabs.net/projects/cafe/boards/"
+weight = 3
+
+[[menu.shortcuts]]
+name = "<i class='fa fa-edit'></i> Editing these pages"
+identifier = "jg"
+url = "/editing"
+weight = 4
