@@ -1,7 +1,7 @@
 ---
 title: "JeeNode Zero"
 chapter: true
-weight: 10
+weight: 75
 ---
 
 An ultra low-power STM32 µC with on-board RF module for wireless
