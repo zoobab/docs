@@ -3,7 +3,10 @@ title: "Editing"
 ---
 
 The pages on this site are generated from the
-[jeelabs/docs](https://github.com/jeelabs/docs) repository on GitHub.
+[jeelabs/docs](https://github.com/jeelabs/docs) repository on GitHub.  The
+format is [Markdown](https://learn.netlify.com/en/cont/markdown/) with some
+additional "[shortcodes](https://learn.netlify.com/en/shortcodes/)", such as the
+"Tip" at the end of this page.
 
 #### If you have commit access
 
@@ -37,5 +40,7 @@ file.  The basic steps to do this are:
 1. _extend and modify the documentation ..._
 1. every time you save, the browser will update
 
-Tip: a convenient setup is to keep your editor and browser open,
+{{% notice tip %}}
+A convenient setup is to keep your editor and browser open,
 side-by-side.
+{{% /notice %}}

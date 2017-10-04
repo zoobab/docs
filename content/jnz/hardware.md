@@ -13,7 +13,7 @@ There are three headers on the JeeNode Zero: a 17-pin main header (left), a
 {{% notice note %}}
 The top of the JNZ is the **unpopulated** side. Most components are on the
 bottom.
-{{% /notice%}}
+{{% /notice %}}
 
 ### Voltage levels
 
