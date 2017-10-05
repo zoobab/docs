@@ -2,6 +2,9 @@ baseURL = "https://docs.jeelabs.org/"
 languageCode = "en-gb"
 title = "JeeLabs Docs"
 theme = "hugo-theme-learn"
+pygmentsCodeFences = true
+pygmentsCodeFencesGuessSyntax = true
+pygmentsStyle = "emacs"
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
@@ -12,13 +15,12 @@ editURL = "https://github.com/jeelabs/docs/edit/master/content/"
 
 [[menu.shortcuts]]
 name = "<i class='fa fa-bullseye'></i> JeeLabs weblog"
-identifier = "wl"
-url = "https://jeelabs.org/"
+identifier = "jw"
+url = "https://jeelabs.org"
 weight = 1
 
 [[menu.shortcuts]]
 name = "<i class='fa fa-github'></i> Github repositories"
-identifier = "eg"
 url = "/github"
 weight = 2
 
@@ -30,6 +32,5 @@ weight = 3
 
 [[menu.shortcuts]]
 name = "<i class='fa fa-edit'></i> Editing these pages"
-identifier = "jg"
 url = "/editing"
 weight = 4
