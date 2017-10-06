@@ -14,6 +14,8 @@ examples
 
 ----
 
+{{% children depth="9" %}}
+
 #### Status 2017
 
 * The _JeeNode_ (ATmega328 + [RFM12/RFM69](rf12-69)) is available [in the
