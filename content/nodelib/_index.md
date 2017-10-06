@@ -1,7 +1,7 @@
 ---
 title: "JeeNode & JeeLib"
 chapter: true
-weight: 95
+weight: 10
 ---
 
 A low-power Arduino'ish board with wireless, plus an elaborate library with

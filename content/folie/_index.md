@@ -1,6 +1,6 @@
 ---
 title: "Forth Live Explorer"
-weight: 70
+weight: 30
 ---
 
 Folie is a command-line utility to talk to a µC

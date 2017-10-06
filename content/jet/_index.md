@@ -1,6 +1,6 @@
 ---
 title: "JeeLabs Embello Toolkit"
-weight: 65
+weight: 40
 ---
 
 JET is a dataflow framework and server for
