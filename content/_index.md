@@ -4,7 +4,7 @@ title: "Home"
 
 # JeeLabs Docs
 
-This site is work-in-progress - projects so far include:
+This site is work-in-progress ...
 
 {{% children style="h5" description="true" %}}
 
