@@ -3,6 +3,11 @@ title: "Hardware"
 weight: 1
 ---
 
+{{% notice tip %}}
+The pinouts of most of the boards listed here can be found on
+[this wiki page](https://jeelabs.net/projects/hardware/wiki/Pinouts).  {{%
+/notice %}}
+
 ## JeeNode v6
 
 * [Homepage](https://jeelabs.net/projects/hardware/wiki/JeeNode) - [In the
