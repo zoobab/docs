@@ -34,4 +34,4 @@ The examples in JeeLib are split into a number of areas:
 
 There is an elaborate (but somewhat ageing) [documentation
 area](https://jeelabs.org/pub/docs/jeelib/files.html) for most of the code in
-JeeLib, including most of the example code.
+JeeLib, including many examples.
