@@ -73,8 +73,8 @@ sensor nodes if your requirements are more limited:
 
 ![](JMV2.jpg?width=300px)
 
-Programming these boards Micro requires an ISP programmer, and even debugging
-via a serial console requires much more effort. The ATtiny84 is not supported by
+Programming these boards requires an ISP programmer, and debugging via a
+serial console requires quite some effort: the ATtiny84 is not supported by
 default in the Arduino IDE, but there are add-ons to fill in this gap.
 
 The JeeNode Micro also comes in a version with on-board boost regulator,
