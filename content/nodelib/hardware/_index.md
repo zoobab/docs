@@ -69,16 +69,17 @@ for unattended logging as well as an accurate 10 ppm crystal for keeping time:
 The JeeNode Micro is the smaller cousin of the JeeNode. It has an ATtiny84 µC
 instead of an ATmega328, with much more limited memory, weaker hardware
 peripherals, and fewer I/O pins, but still makes a very nice and small remote
-sensor nodes if your requirements are more limited:
+sensor nodes if your requirements are modest:
 
-![](JMV2.jpg?width=300px)
+![](JMV3_Boost_Batt_4388_large.jpg?width=300px)
 
 Programming these boards requires an ISP programmer, and debugging via a
 serial console requires quite some effort: the ATtiny84 is not supported by
 default in the Arduino IDE, but there are add-ons to fill in this gap.
 
 The JeeNode Micro also comes in a version with on-board boost regulator,
-allowing it to run off a single AA or AAA battery.
+allowing it to run on a single AA or AAA battery. The alternative is to run
+unregulated - a coin cell, for example.
 
 ## LED Node
 
