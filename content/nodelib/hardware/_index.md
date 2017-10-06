@@ -5,8 +5,8 @@ weight: 1
 
 {{% notice tip %}}
 The pinouts of most of the boards listed here can be found on
-[this wiki page](https://jeelabs.net/projects/hardware/wiki/Pinouts).  {{%
-/notice %}}
+[this wiki page](https://jeelabs.net/projects/hardware/wiki/Pinouts).
+{{% /notice %}}
 
 ## JeeNode v6
 
@@ -23,10 +23,10 @@ Uploading and debugging takes place via the 6-pin _FTDI header_ on the left, and
 requires an USB-BUB or equivalent to hook up to the Arduino IDE on your
 computer.
 
-This is a kit with easy-to-solder through-hole parts.
-The radio module is placed on top and "tacked down" with solder pads. An antenna
-wire of approx 8 cm is needed for the radio, which operates at 868 MHz in Europe
-or 915 MHz in the US.
+This is a kit with easy-to-solder through-hole parts.  The radio module is
+placed on top and "tacked down" with solder pads. An antenna wire of approx 8 cm
+is needed for the radio, which operates at 868 MHz in Europe or 915 MHz in the
+US.
 
 ## JeeNode SMD
 
@@ -44,8 +44,8 @@ components. It has the same size and pinout, but offers a few extra I/O pins:
   shop](https://www.digitalsmarties.net/products/jeenode-usb)
 
 The JeeNod USB is like a JeeNode SMD, but with an additional built-in
-USB-to-Serial FTDI adapter.  It also adds a reset button, a blue LED, and
-a LiPo charge circuit:
+USB-to-Serial FTDI adapter.  It also adds a reset button, a blue LED, and a LiPo
+charge circuit:
 
 ![](JNUSB_v5_medium.jpg?width=500px)
 
@@ -55,16 +55,16 @@ a LiPo charge circuit:
   shop](https://www.digitalsmarties.net/products/jeelink)
 
 The JeeLink is designed as central wireless node for remote JeeNodes and other
-devices transmitting on the same 868 or 915 MHz frequency in a compatible
-format. It plugs directly into a USB jack and includes a 2 MB dataflash memory
-for unattended logging as well as an accurate 10 ppm crystal for keeping time:
+devices transmitting on 433, 868, or 915 MHz in a compatible format. It plugs
+directly into a USB jack and includes a 2 MB dataflash memory for unattended
+logging as well as an accurate 10 ppm crystal for keeping time:
 
 ![](jeelink-bottom_large.jpg)
 
 ## JeeNode Micro
 
-* [Homepage](https://jeelabs.net/projects/hardware/wiki/JeeNode_Micro) - [In
-  the shop](https://www.digitalsmarties.net/products/jeenode-micro)
+* [Homepage](https://jeelabs.net/projects/hardware/wiki/JeeNode_Micro) - [In the
+  shop](https://www.digitalsmarties.net/products/jeenode-micro)
 
 The JeeNode Micro is the smaller cousin of the JeeNode. It has an ATtiny84 µC
 instead of an ATmega328, with much more limited memory, weaker hardware
@@ -73,9 +73,9 @@ sensor nodes if your requirements are modest:
 
 ![](JMV3_Boost_Batt_4388_large.jpg?width=300px)
 
-Programming these boards requires an ISP programmer, and debugging via a
-serial console requires quite some effort: the ATtiny84 is not supported by
-default in the Arduino IDE, but there are add-ons to fill in this gap.
+Programming these boards requires an ISP programmer, and debugging via a serial
+console requires quite some effort: the ATtiny84 is not supported by default in
+the Arduino IDE, but there are add-ons to fill in this gap.
 
 The JeeNode Micro also comes in a version with on-board boost regulator,
 allowing it to run on a single AA or AAA battery. The alternative is to run
@@ -99,8 +99,8 @@ for the LED strips.
 
 ## Add-on JeePlugs
 
-* [Homepage](https://jeelabs.net/projects/hardware/wiki) -
-  [In the shop](https://www.digitalsmarties.net/collections/all/plugs)
+* [Homepage](https://jeelabs.net/projects/hardware/wiki) - [In the
+  shop](https://www.digitalsmarties.net/collections/all/plugs)
 
 Most JeeNodes have one to four 6-pin "JeePorts": a convention which allows
 connecting a large variety of additional hardware devices via digital, analog,
