@@ -91,7 +91,7 @@ match those strips, so that the board can be fitted next to the strips:
 
 ![](DSC_4339.jpg?width=500px)
 
-This is a through-hole kit, apart from three (fairly large) SMD MPSFETs. There
+This is a through-hole kit, apart from three (fairly large) SMD MOSFETs. There
 is a single 6-pin JeePort on the right. The FTDI header is in the middle of the
 board, and there is a screw terminal on the left to supply the high-power 12V
 for the LED strips.
