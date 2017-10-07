@@ -1,6 +1,5 @@
 ---
 title: "JeeNode Zero"
-chapter: true
 weight: 20
 ---
 
@@ -8,13 +7,9 @@ An ultra low-power STM32 µC with on-board RF module for wireless
 sensor nodes
 <!--more-->
 
-# JeeNode Zero
-
 ![](DSC_5619.jpg)
 
-----
-
-#### Status 2016-12
+## Status 2016-12
 
 * Final build with rev4 PCB, works as intended, available [in the
   shop](https://www.digitalsmarties.net/products/jeenode-zero)

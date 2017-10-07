@@ -1,6 +1,5 @@
 ---
 title: "JeeNode & JeeLib"
-chapter: true
 weight: 10
 ---
 
@@ -8,15 +7,11 @@ A low-power Arduino'ish board with wireless, plus an elaborate library with
 examples
 <!--more-->
 
-# JeeNode
-
 ![](DSC0490.jpg)
-
-----
 
 {{% children depth="9" %}}
 
-#### Status 2017
+## Status 2017
 
 * The _JeeNode_ (ATmega328 + [RFM12/RFM69](rf12-69)) is available [in the
   shop](https://www.digitalsmarties.net/products/jeenode)
