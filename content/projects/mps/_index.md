@@ -1,6 +1,6 @@
 ---
 title: "Micro Power Snitch"
-weight: 90
+weight: 95
 ---
 
 Periodically send a wireless data packet
