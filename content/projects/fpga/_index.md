@@ -1,12 +1,12 @@
 ---
-title: "FPGA stuff"
+title: "FPGA Stuff"
 weight: 90
 ---
 
 All sorts of experiments with FPGAs on a range of low-cost boards
 <!--more-->
 
-![](DSC_5439.jpg?width=500px)
+![](DSC_5439.jpg)
 
 ## Weblog posts
 
