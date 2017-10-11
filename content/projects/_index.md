@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-weight: 50
+weight: 60
 ---
 
 Various projects, made with the hardware and software documented on this
