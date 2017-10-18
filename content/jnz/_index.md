@@ -7,7 +7,7 @@ An ultra low-power STM32 µC with on-board RF module for wireless
 sensor nodes
 <!--more-->
 
-![](DSC_5619.jpg)
+![](DSC_5619.jpg?width=500px)
 
 ## Status 2016-12
 

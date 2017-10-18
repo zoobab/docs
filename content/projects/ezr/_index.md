@@ -6,7 +6,7 @@ weight: 85
 Z80 & CP/M retro-computing with an EZ80 plus STM32F103
 <!--more-->
 
-![](DSC_5830.jpg)
+![](DSC_5830.jpg?width=500px)
 
 ## Status 2017-04
 

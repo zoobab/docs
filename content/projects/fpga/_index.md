@@ -1,6 +1,6 @@
 ---
 title: "FPGA Stuff"
-weight: 90
+weight: 95
 ---
 
 All sorts of experiments with FPGAs on a range of low-cost boards

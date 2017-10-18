@@ -1,13 +1,13 @@
 ---
 title: "Micro Power Snitch"
-weight: 95
+weight: 100
 ---
 
 Periodically send a wireless data packet
 using energy harvested from a Current Transformer
 <!--more-->
 
-![](DSC_5089.jpg)
+![](DSC_5089.jpg?width=500px)
 
 ## Status 2015-05
 
