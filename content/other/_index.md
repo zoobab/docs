@@ -3,7 +3,7 @@ title: "Other weblog posts"
 weight: 70
 ---
 
-Some weblog highlights with ideas, tips, and reference material:
+Some weblog highlights with ideas, tips, and reference material
 <!--more-->
 
 * [Measuring VCC via the
