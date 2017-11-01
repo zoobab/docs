@@ -3,7 +3,7 @@ title: "The Fabric of Computing"
 weight: 50
 ---
 
-TFoC is about the essence of computing, from FPGA to very high-level
+**TFoC** is about the essence of computing, from FPGA to very high-level
 languages
 <!--more-->
 

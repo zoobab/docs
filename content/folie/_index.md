@@ -3,7 +3,7 @@ title: "Forth Live Explorer"
 weight: 30
 ---
 
-Folie is a command-line utility to talk to a µC
+**Folie** is a command-line utility to talk to a µC
 via a (local or remote) serial port
 <!--more-->
 
