@@ -18,6 +18,9 @@ Z80 & CP/M retro-computing with an EZ80 plus STM32F103
 
 ## Weblog posts
 
+* [Altair BASIC via 8080 emulation](https://jeelabs.org/book/1549c/) - Dec 2015
+* [I never had an Intel 8080](https://jeelabs.org/2016/09/i-never-had-an-intel-8080/) - Sep 2016
+
 #### EZ-Retro v1
 * [EZ-Retro is a Z80 running
   CP/M](https://jeelabs.org/2017/04/ez-retro-is-a-z80-running-cp/m/) - Apr 2017
